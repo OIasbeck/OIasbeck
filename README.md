@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @OIasbeck: Otávio Iasbeck, I'm living in Brazil, and i'm Intern in a big company of callcenter
-- 👀 I’m interested in ... Data Science, all about data 
-- 🌱 I’m currently learning ... Data Analisys with Python 
+- 👋 Hi, I’m @OIasbeck: Otávio Iasbeck, I'm living in Brazil, and i'm Intern in a company of callcenter
+- 👀 I’m interested in ... Data Science, all about data knowledge
+- 🌱 I’m currently learning ... Data Analisys with Python and SQL
 - 💞️ I’m looking to collaborate on ... Share my codes, help and be helped 
 - 📫 How to reach me ... iasbeck.gi@hotmail.com 
 
